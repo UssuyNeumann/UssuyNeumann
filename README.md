@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Luis
-- 👀 I’m interested in mobile and web development
+- 👀 I’m interested in mobile and web development, databases.
 - 🌱 I’m currently learning Flutter and PHP 
 - 💬 Ask me about SQL 
 - 📫 How to reach me: https://www.linkedin.com/in/luisussuy/ 
