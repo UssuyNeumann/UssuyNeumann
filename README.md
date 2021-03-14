@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Luis Neumann 
+- 👋 Hi, I’m Luis
 - 👀 I’m interested in mobile and web development
 - 🌱 I’m currently learning Flutter and PHP 
 - 💬 Ask me about SQL 
