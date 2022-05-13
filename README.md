@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Luis
-- 👀 I’m interested web development, mobile and databases.
-- 🌱 I’m currently learning Flutter and PHP 
+- 👀 I’m interested databases, web development and mobile.
+- 🌱 I’m currently learning PHP, Python and Flutter. 
 - 💬 Ask me about SQL 
 - 📫 How to reach me: https://www.linkedin.com/in/luisussuy/ 
 - ⚡ Fun fact: DJ, ARPG, Minecraft Mobile
